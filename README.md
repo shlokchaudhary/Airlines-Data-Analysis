@@ -13,7 +13,7 @@ I’ve completed an end-to-end Airline Data Analysis project where I combined
 📊 Key insights included:
 • Flight Ticket Prices 
 • Airline performance comparison  
-• Cancellation analysis  
+• Occupancy analysis  
 
 
 
